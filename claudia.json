@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "simpleapi-executor",
+    "name": "simpleapi",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "t79kwaiuk1",
+    "module": "app"
+  }
+}
